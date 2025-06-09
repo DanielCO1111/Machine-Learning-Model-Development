@@ -63,6 +63,35 @@ Includes steps for data normalization, feature selection, and handling of traini
 
 ---
 
+## KMeans Clustering
+This notebook focuses on unsupervised clustering using the K-means algorithm:
+
+### Main Parts:
+
+1. K-Means Clustering from Scratch with NumPy
+
+2. Step-by-step implementation of K-means, from centroid initialization to convergence.
+
+3. Cluster Analysis and Visualization
+
+4. Assign data points to clusters and interpret the results visually.
+
+*The goal is to explore how K-means can be used to identify natural groupings in data, with all components built manually in NumPy.*
+
+### Key Features
+Full Clustering Pipeline: Develop all clustering steps (init, assignment, update) without ML libraries.
+
+In-Depth Cluster Evaluation: Assess clustering effectiveness with inertia and visual inspection.
+
+Result Interpretation: Use plots to communicate clustering outcomes and data structure.
+
+### Data Preprocessing
+Covers standardization and dimensionality reduction (if needed) to improve clustering quality.
+
+### Visualization and Results
+Includes scatter plots and color-coded cluster assignments for clear interpretation.
+
+---
 
 ### Requirements
 - Python 3.7 or higher  
