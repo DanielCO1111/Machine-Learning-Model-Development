@@ -29,6 +29,41 @@ The goal is to implement and analyze neural network models first from scratch in
 - A real-world case study to apply learned techniques, demonstrating the workflow from raw data to actionable insights.
 ![image](https://github.com/user-attachments/assets/781cbcaa-4e18-4217-8a4d-891cf8f9a2e1)
 
+---
+
+## Neural Network and KNN
+
+The Neural Network and KNN part divided into two main parts:
+
+1. *Feedforward Neural Network using NumPy:*
+   
+- Implement and analyze a simple neural network for classification from scratch using NumPy.
+
+2. *K-Nearest Neighbors (KNN) Algorithm:*
+   
+- Apply and evaluate the KNN algorithm for supervised classification, including parameter selection and model assessment.
+
+The goal is to gain hands-on experience with two classic classification algorithms—neural networks (implemented from the ground up) and KNN—comparing their effectiveness on different datasets.
+
+### Key Features
+
+1. Custom Model Implementation: Build neural networks and KNN classifiers from first principles.
+
+2. Hyperparameter Tuning: Experiment with neural network architecture and KNN's 'K' value to optimize accuracy.
+
+3. Comprehensive Evaluation: Visualize decision boundaries and model predictions using Matplotlib.
+
+### Data Preparation
+Includes steps for data normalization, feature selection, and handling of training/test splits to ensure fair algorithm comparison.
+
+### Performance Visualization & Analysis
+- Interactive plots for loss, accuracy, and decision surfaces.
+
+- Discussion on strengths and weaknesses of neural networks vs. KNN.
+
+---
+
+
 ### Requirements
 - Python 3.7 or higher  
 - Jupyter Notebook or JupyterLab  
