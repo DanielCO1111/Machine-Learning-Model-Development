@@ -1,7 +1,7 @@
 # Machine-Learning-Model-Development
 This project demonstrates the implementation and application of foundational machine learning algorithms using Python, Numpy, Pandas, and Matplotlib. The notebooks include hands-on solutions for real-world classification and clustering tasks such as university admissions prediction and digit recognition.
 
-This repository contains the solution for of the Machine Learning course. It is divided into two main parts:
+The Logistic Regression part divided into two main parts:
 1. *Part 1: Neural Network using NumPy*  
 2. *Part 2: Neural Network in PyTorch* 
 
