@@ -9,7 +9,7 @@ The Logistic Regression part divided into two main parts:
 
 The goal is to implement and analyze neural network models first from scratch in NumPy, then using PyTorch.
 
-## Key Features
+### Key Features
 - Comprehensive Data Analysis: Detailed exploration and manipulation of datasets to uncover underlying patterns and relationships.
 - Predictive Modeling: Introduction to building and refining predictive models using advanced statistical methods.
 - Interactive Visualizations: Leveraging Python's visualization libraries to create interactive plots that effectively communicate the results of data analysis.
