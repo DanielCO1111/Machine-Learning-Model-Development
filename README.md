@@ -29,7 +29,7 @@ The goal is to implement and analyze neural network models first from scratch in
 - A real-world case study to apply learned techniques, demonstrating the workflow from raw data to actionable insights.
 ![image](https://github.com/user-attachments/assets/781cbcaa-4e18-4217-8a4d-891cf8f9a2e1)
 
-## Requirements
+### Requirements
 - Python 3.7 or higher  
 - Jupyter Notebook or JupyterLab  
 - NumPy  
